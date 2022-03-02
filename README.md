@@ -1,4 +1,7 @@
 # Proyecto1POO
-Proyecto1POO
-Awebo, ya pude xd (EventualBlock63)
-Esta es una prueba, esto es una prueba. (LaVacaProgramadora)
+Proyecto 1 Programación Orientada a Objetos
+
+Equipo 4: 
+Rodríguez Kobeh Santiago (kmoney57)
+Villicaña Yoguez José Alfredo (LaVacaProgramadora)
+Martínez Díaz Fernando Jair (EventualBlock63)
